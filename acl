@@ -3775,6 +3775,7 @@
 (^|\.).cnn\.com$
 (^|\.).abc\.com$
 (^|\.).bbc\.com$
+(^|\.).bbc\.co\.uk$
 (^|\.).foxnews\.com$
 (^|\.).cnet\.com$
 (^|\.).euronews\.com$
